@@ -25,6 +25,7 @@ On all platforms, install the [.NET 6.0 runtime](https://dotnet.microsoft.com/en
 On MacOS, use the [mono-libgdiplus](https://formulae.brew.sh/formula/mono-libgdiplus) Homebrew package on Apple Silicon. 
 > [!NOTE]
 > You do not need to do this on x64/Intel Macs as the files needed to launch this are included with the x64/Intel version of the application.
+
 On Linux, you must install the libgdiplus package for your respective distro.
 
 ## Compile instructions:
